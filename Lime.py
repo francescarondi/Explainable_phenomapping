@@ -24,7 +24,7 @@ import net
 import data_loader
 
 
-#model
+#best model
 model_param = ut.model_param
 
 embs = None
